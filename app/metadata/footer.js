@@ -2,7 +2,7 @@ module.exports = {
   footer: {
     blocks: [
       {
-        title: 'For visitors',
+        title: 'Para Visitantes',
         links: [
           {
             text: 'Google Developers',
@@ -26,7 +26,7 @@ module.exports = {
         ]
       },
       {
-        title: 'For partners',
+        title: 'Para Socios',
         links: [
           {
             text: 'Partnership Proposition',

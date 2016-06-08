@@ -9,9 +9,9 @@ module.exports = {
       fontColor: '#FFFFFF',
       tabBarColor: '#FFFFFF',
       video: {
-        title: 'GDG DevFest Ukraine 2015',
-        youtubeId: 'DfMnJAzOFng',
-        text: 'See how it was in 2015'
+        title: 'NG Conf 2016',
+        youtubeId: 'J5Bvy4KhIs0',
+        text: 'Mira como fue en USA'
       }
     }
   }, {

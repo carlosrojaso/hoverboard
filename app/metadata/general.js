@@ -1,16 +1,16 @@
 module.exports = {
-  title: 'GDG DevFest Season 2015',
-  description: 'The biggest Google tech conference in Ukraine carefully crafted for you by GDG community! All about Android, Web and Cloud from the world experts',
-  keywords: 'event, gdg, gde, devfest, google, programming, android, chrome, polymer, developers, cloud',
+  title: 'NgConf-Latam 2016',
+  description: 'El evento más grande de Angular ahora en Latinoamerica.',
+  keywords: 'angular, ionic, javascript',
   charset: 'utf-8',
-  lang: 'en',
+  lang: 'es',
   // Add to homescreen for Chrome on Android
-  applicationName: 'GDG DevFest Season 2015',
+  applicationName: 'NgConf-Latam 2016',
   // Add to homescreen for Safari on iOS
-  appleMobileWebAppTitle: 'GDG DevFest Season 2015',
+  appleMobileWebAppTitle: 'NgConf-Latam 2016',
 
   // Event details
-  dates: 'October 23-24, 2015',
+  dates: 'Nov 11-22, 2016',
   location: {
     title: 'Pivdennyi Expo Center',
     description: 'Newly built Pivdennyi Expo is a long-awaited exhibition center in Lviv, which can fulfill the needs of the large-scale event',
