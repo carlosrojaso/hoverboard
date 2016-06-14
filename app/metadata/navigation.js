@@ -2,7 +2,7 @@ module.exports = {
   navigation: [{
     route: 'home',
     permalink: '/',
-    text: 'Home',
+    text: 'Inicio',
     heroSettings: {
       backgroundColor: '#00BCD4',
       backgroundImage: '/images/backgrounds/home.png',
@@ -14,7 +14,9 @@ module.exports = {
         text: 'Mira como fue en USA'
       }
     }
-  }, {
+  }
+  /*, 
+  {
     route: 'blog',
     permalink: '/blog',
     text: 'Blog',
@@ -24,10 +26,12 @@ module.exports = {
       fontColor: '#FFFFFF',
       tabBarColor: '#FFFFFF'
     }
-  }, {
+  }*/
+  ,
+   {
     route: 'schedule',
     permalink: '/schedule',
-    text: 'Schedule',
+    text: 'Agenda',
     heroSettings: {
       backgroundColor: '#607D8B',
       fontColor: '#FFFFFF',
@@ -36,7 +40,7 @@ module.exports = {
   }, {
     route: 'speakers',
     permalink: '/speakers',
-    text: 'Speakers',
+    text: 'Conferencistas',
     heroSettings: {
       backgroundColor: '#673AB7',
       fontColor: '#FFFFFF',

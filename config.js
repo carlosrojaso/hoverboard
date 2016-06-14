@@ -79,8 +79,8 @@ module.exports = {
       cacheTTL: {
         development: '0',
         staging:     '0',
-        production:  '315360000', // 10 years
-        productionNoCache: '300' // 5 min for files without revision hash
+        production:  '0', // 10 years
+        productionNoCache: '0' // 5 min for files without revision hash
       }
     },
     // Any Linux hosting with SSH

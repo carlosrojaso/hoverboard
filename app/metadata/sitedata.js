@@ -7,13 +7,13 @@ module.exports = {
     caption: 'Dias'
   }, {
     counter: 40,
-    caption: 'Sessions'
+    caption: 'Charlas'
   }, {
-    counter: 3,
-    caption: 'Parallel tracks'
+    counter: 6,
+    caption: 'Workshops'
   }],
   callToAction: {
-    text: 'GDG DevFest 2014',
+    text: 'NG-Conf Global 2016',
     buttonText: 'See how it was',
     video: {
       id: 't95z_HLMTmM',
@@ -26,28 +26,28 @@ module.exports = {
       big: '../images/backgrounds/2015_1.jpg',
       small: ['../images/backgrounds/2015_2.jpg', '../images/backgrounds/2015_3.jpg']
     },
-    albumUrl: 'https://plus.google.com/events/gallery/cc6tosp4ohkp6qj9pg5jb4g6o3k?sort=1'
+    albumUrl: 'http://www.ng-conf.org'
   },
   ticketsBlock: {
-    title: 'Tickets',
+    title: 'Tiquetes',
     tickets: [{
-      name: 'Student',
-      price: 400,
-      currency: 'UAH',
-      info: '*Before October 23 or 100 tickets.<br/>Requires valid student ID'
+      name: 'Estudiantes',
+      price: 105000,
+      currency: 'CLP',
+      info: '*Antes del 23 de Octubre o 100 Tiquetes vendidos.<br/>Requiere Carnet Estudiantil.'
     }, {
-      name: 'Early Bird',
-      price: 600,
-      currency: 'UAH',
-      info: '*Before September 27 or 150 tickets',
-      soldOut: true
+      name: 'Creyentes',
+      price: 250000,
+      currency: 'CLP',
+      info: '*Antes del 27 de Septiembre o 150 Tiquetes',
+      soldOut: false
     }, {
-      name: 'Lazy Bird',
-      price: 800,
-      currency: 'UAH',
-      info: '*Before October 23'
+      name: 'Regular',
+      price: 300000,
+      currency: 'CLP',
+      info: '*Despues del 27 de Septiembre'
     }],
-    details: 'Tickets grant access to all conference sections, coffee breaks, lunch and party. Accommodation is NOT included in the ticket price.'
+    details: 'Tiquetes dan acceso a todas las conferencias, Coffee Breaks, Almuerzos y Fiesta Oficial. Hospedaje es no incluido en el precio del tiquete.'
   },
   socialFeed: {
     source: '/data/tweets.json'

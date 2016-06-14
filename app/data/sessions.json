@@ -1,18 +1,24 @@
 {
   "1001": {
     "id": 1001,
-    "title": "Registration & morning Coffee",
-    "description": "Get your badge, coffee, enjoy talking with tech edicts around"
+    "title": "Angular 2's Fresh Approach to Style - Justin Schwartzenberger",
+    "description": "ng-conf is a two day, single track conference focused on delivering the highest quality training in the Angular JavaScript framework. 500 to 700 Developers from across the country will converge on beautiful Salt Lake City, UT to participate in training sessions by the Google Angular team, and other Angular experts.",
+    "thumbnail": "/images/sessions/101.JPG",
+    "videoId": "J5Bvy4KhIs0"
   },
   "1002": {
     "id": 1002,
-    "title": "Lunch",
-    "description": "Foooooooood!"
+    "title": "An Angular 2 Force Awakens - John Papa",
+    "description": "Foooooooood!",
+    "thumbnail": "/images/sessions/102.JPG",
+    "videoId": "WAPQF_GA7Qg"
   },
   "1003": {
     "id": 1003,
-    "title": "Coffee break",
-    "description": "Coffeeeeeee!"
+    "title": "Typescript: Angular 2's Secret Weapon - Dan Wahlin",
+    "description": "Coffeeeeeee!",
+    "thumbnail": "/images/sessions/103.JPG",
+    "videoId": "e3djIqAGqZo"
   },
   "1004": {
     "id": 1004,
@@ -46,7 +52,7 @@
     "videoId": ""
   },
   "101": {
-    "id": 101,
+    "id": 1010,
     "title": "Material Design on Custom Views",
     "description": "There are various widgets to create user interfaces in Android Framework. Using these widgets is a starting point but they are not enough to create awesome apps. Fortunately, alternative methods are here to rescue! I mean understanding and extending the View class.<br/><br/>In this presentation, I will give some Custom View examples. Some of them makes impossible things be possible and some of them increase performance.<br/><br/>I will also talk about how to apply Material Design in Custom Views with the support of older platform versions.",
     "speakers": [
@@ -54,8 +60,8 @@
     ],
     "language": "English",
     "complexity": "Beginner",
-    "presentation": "https://speakerdeck.com/gdglviv/said-tahsin-dane-material-design-custom-views",
-    "thumbnail": "/images/sessions/101.JPG",
+    "presentation": "",
+    "thumbnail": "/images/sessions/190.JPG",
     "videoId": "nFZxAIi8n7I",
     "tags": [
       "Android",
@@ -72,8 +78,8 @@
     "language": "English",
     "complexity": "Beginner",
     "presentation": "https://speakerdeck.com/gdglviv/mateusz-herych-how-can-android-backup-break-your-app",
-    "thumbnail": "/images/sessions/102.JPG",
-    "videoId": "89wvLLc25AY",
+    "thumbnail": "/images/sessions/1002.JPG",
+    "videoId": "",
     "tags": [
       "Android",
       "Marshmallow"
@@ -89,8 +95,8 @@
     "language": "English",
     "complexity": "Beginner",
     "presentation": "https://speakerdeck.com/gdglviv/dmytro-danylyk-planning-android-screens",
-    "thumbnail": "/images/sessions/103.JPG",
-    "videoId": "gQbjjOE2yF4",
+    "thumbnail": "/images/sessions/1030.JPG",
+    "videoId": "",
     "tags": [
       "Android",
       "UX"
@@ -107,7 +113,7 @@
     "complexity": "Intermediate",
     "presentation": "https://speakerdeck.com/gdglviv/roman-mazur-power-of-android-shell",
     "thumbnail": "/images/sessions/104.JPG",
-    "videoId": "a4InM2VhAvQ",
+    "videoId": "",
     "tags": [
       "Android",
       "Tools"
@@ -124,7 +130,7 @@
     "complexity": "Intermediate",
     "presentation": "https://speakerdeck.com/gdglviv/michal-tajchert-hijacking-your-notifications",
     "thumbnail": "/images/sessions/105.JPG",
-    "videoId": "2rT4Us7cFDg",
+    "videoId": "",
     "tags": [
       "Android"
     ]
@@ -140,7 +146,7 @@
     "complexity": "Beginner",
     "presentation": "http://olostan.github.io/slides_microgcp",
     "thumbnail": "/images/sessions/106.JPG",
-    "videoId": "euROYVOJYuI",
+    "videoId": "",
     "tags": [
       "Cloud",
       "Go Lang"
@@ -157,7 +163,7 @@
     "complexity": "Beginner",
     "presentation": "http://olostan.github.io/slides_ng2arch",
     "thumbnail": "/images/sessions/107.JPG",
-    "videoId": "V7GCjnfsOCE",
+    "videoId": "",
     "tags": [
       "Web",
       "AngularJS"
@@ -174,7 +180,7 @@
     "complexity": "Intermediate",
     "presentation": "https://speakerdeck.com/gdglviv/dima-maleev-v8-under-the-hood",
     "thumbnail": "/images/sessions/108.JPG",
-    "videoId": "Oazl4fx-X68",
+    "videoId": "",
     "tags": [
       "Web",
       "V8 Engine"
@@ -191,7 +197,7 @@
     "complexity": "Beginner",
     "presentation": "https://speakerdeck.com/gdglviv/mandy-waite-scalable-microservices-with-grpc-kubernetes-and-containers",
     "thumbnail": "/images/sessions/109.JPG",
-    "videoId": "BZ-uR8LQRkA",
+    "videoId": "",
     "tags": [
       "Cloud",
       "gRPC",
@@ -209,7 +215,7 @@
     "complexity": "Beginner",
     "presentation": "https://speakerdeck.com/gdglviv/mandy-waite-cloud-platform-end-to-end-how-we-built-cloud-spin",
     "thumbnail": "/images/sessions/110.JPG",
-    "videoId": "n-H6jYnL32U",
+    "videoId": "",
     "tags": [
       "Cloud",
       "Docker",
@@ -227,7 +233,7 @@
     "complexity": "Beginner",
     "presentation": "https://speakerdeck.com/gdglviv/roman-herasymenko-android-m-security-model",
     "thumbnail": "/images/sessions/111.JPG",
-    "videoId": "lFpb-LaYDvs",
+    "videoId": "",
     "tags": [
       "Android",
       "Marshmallow"
@@ -244,7 +250,7 @@
     "complexity": "Beginner",
     "presentation": "https://speakerdeck.com/gdglviv/xavier-hallade-mastering-the-ndk-with-android-studio-1-dot-3-plus-and-the-gradle-experimental-plugin",
     "thumbnail": "/images/sessions/122.JPG",
-    "videoId": "GbTe0BTuNaU",
+    "videoId": "",
     "tags": [
       "Android",
       "NDK"
@@ -261,7 +267,7 @@
     "complexity": "Intermediate",
     "presentation": "https://speakerdeck.com/gdglviv/alex-pazhyn-material-design-custom-branding",
     "thumbnail": "/images/sessions/113.JPG",
-    "videoId": "3u8864j4g24",
+    "videoId": "",
     "tags": [
       "Android",
       "Material Design"
@@ -278,7 +284,7 @@
     "complexity": "Intermediate",
     "presentation": "http://slides.com/mg6maciej/continuous-delivery-with-ease-devfest-ukraine-2015",
     "thumbnail": "/images/sessions/114.JPG",
-    "videoId": "b-4upgkYdZo",
+    "videoId": "",
     "tags": [
       "Android",
       "CI"
@@ -295,7 +301,7 @@
     "complexity": "Intermediate",
     "presentation": "https://speakerdeck.com/gdglviv/jana-moudra-lets-play-dart",
     "thumbnail": "/images/sessions/115.JPG",
-    "videoId": "DoUATBQcihI",
+    "videoId": "",
     "tags": [
       "Web",
       "Dart"
@@ -312,7 +318,7 @@
     "complexity": "Intermediate",
     "presentation": "https://speakerdeck.com/gdglviv/jakub-skvara-polymer-vs-other-libraries",
     "thumbnail": "/images/sessions/116.JPG",
-    "videoId": "-UEURYYVCmg",
+    "videoId": "",
     "tags": [
       "Web",
       "Polymer"
@@ -329,7 +335,7 @@
     "complexity": "Intermediate",
     "presentation": "https://speakerdeck.com/gdglviv/ksenia-shymelcgyk-bluetooth-low-energy-and-ibeacon-development-for-android",
     "thumbnail": "/images/sessions/117.JPG",
-    "videoId": "tEUmmZDwHDg",
+    "videoId": "",
     "tags": [
       "Android",
       "BLE"
@@ -362,7 +368,7 @@
     "complexity": "Intermediate",
     "presentation": "https://speakerdeck.com/gdglviv/alexey-rybakov-android-tv-development",
     "thumbnail": "/images/sessions/119.JPG",
-    "videoId": "SoXb9cXnJhc",
+    "videoId": "",
     "tags": [
       "Android",
       "Android TV"
@@ -379,7 +385,7 @@
     "complexity": "Intermediate",
     "presentation": "https://speakerdeck.com/gdglviv/juarez-filho-firebase-adventures",
     "thumbnail": "/images/sessions/120.JPG",
-    "videoId": "uz4vA21lqoE",
+    "videoId": "",
     "tags": [
       "Cloud",
       "Firebase"
@@ -413,7 +419,7 @@
     "complexity": "Intermediate",
     "presentation": "https://speakerdeck.com/gdglviv/viktor-zozuliak-service-worker-native-apps-experience-for-the-web",
     "thumbnail": "/images/sessions/122.JPG",
-    "videoId": "szLFi1aO398",
+    "videoId": "",
     "tags": [
       "Web",
       "Service Worker"
@@ -430,7 +436,7 @@
     "complexity": "Intermediate",
     "presentation": "https://speakerdeck.com/gdglviv/busra-deniz-google-webrtc-on-mobile",
     "thumbnail": "/images/sessions/123.JPG",
-    "videoId": "YWaOdwCenZM",
+    "videoId": "",
     "tags": [
       "Web",
       "WebRTC"
@@ -447,7 +453,7 @@
     "complexity": "Beginner",
     "presentation": "https://speakerdeck.com/gdglviv/semih-yagcioglu-build-your-thing-in-a-weekend-with-angularjs-2-dot-0",
     "thumbnail": "/images/sessions/124.JPG",
-    "videoId": "gHd-0itPpGg",
+    "videoId": "",
     "tags": [
       "Web",
       "AngularJS"
@@ -464,7 +470,7 @@
     "complexity": "Beginner",
     "presentation": "https://speakerdeck.com/gdglviv/dawid-ostrowski-lean-startup-with-google",
     "thumbnail": "/images/sessions/125.JPG",
-    "videoId": "o04aL3IzmcQ",
+    "videoId": "",
     "tags": [
       "Entrepreneurship"
     ]
@@ -596,7 +602,7 @@
     "complexity": "Beginner",
     "presentation": "https://speakerdeck.com/gdglviv/constantine-mars-rxjava-for-android",
     "thumbnail": "/images/sessions/133.JPG",
-    "videoId": "3LQnqJhGQmI",
+    "videoId": "",
     "tags": [
       "Android",
       "RxJava"
@@ -613,7 +619,7 @@
     "complexity": "Intermediate",
     "presentation": "https://speakerdeck.com/gdglviv/anton-minashkin-data-binding",
     "thumbnail": "/images/sessions/134.JPG",
-    "videoId": "GYwvQ0YAPo4",
+    "videoId": "",
     "tags": [
       "Android",
       "Marshmallow"
@@ -630,7 +636,7 @@
     "complexity": "Beginner",
     "presentation": "https://speakerdeck.com/gdglviv/igor-dvoretskyi-the-cloud-convergence-openstack-and-kubernetes",
     "thumbnail": "/images/sessions/135.JPG",
-    "videoId": "3zbxUcyiP8Y",
+    "videoId": "",
     "tags": [
       "Cloud",
       "Kubernetes"
@@ -688,7 +694,7 @@
     "complexity": "Beginner",
     "presentation": "",
     "thumbnail": "/images/sessions/140.JPG",
-    "videoId": "8kXNWOhEAhE",
+    "videoId": "",
     "tags": [
       "Web"
     ]

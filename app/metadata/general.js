@@ -12,10 +12,10 @@ module.exports = {
   // Event details
   dates: 'Nov 11-22, 2016',
   location: {
-    title: 'Pivdennyi Expo Center',
-    description: 'Newly built Pivdennyi Expo is a long-awaited exhibition center in Lviv, which can fulfill the needs of the large-scale event',
-    short: 'Lviv, Ukraine',
-    address: 'Shchyretska St, 36',
+    title: 'Vina del Mar Casino',
+    description: 'Un increible lugar donde puedes disfrutar de la vista al mar, ademas, de increible diversión.',
+    short: 'Viña del Mar, Chile',
+    address: 'Av. San Martin | Vina del Mar',
     link: 'https://www.facebook.com/expopivdennij',
     pointer: {
       latitude: 49.809841,
