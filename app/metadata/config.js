@@ -9,8 +9,8 @@ module.exports = {
     webtoolsCode: 'YOUR_WEBTOOLS_CODE',
     // Mailchimp subscribe
     mailchimp: {
-        url: 'YOUR_MAILCHIMP_URL',
-        name: 'YOUR_MAILCHIMP_NAME'
+        url: 'http://twitter.us13.list-manage1.com/subscribe?u=f16527963734907a274babe52&id=c59a127ee2',
+        name: 'Ng-Conf-Latam'
     },
-    disqusShortName: 'hoverboard-gdg-x'
+    disqusShortName: 'NgconfLatam'
 };

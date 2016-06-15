@@ -27,21 +27,21 @@
     "brief": "Our friends from the Netherlands touched important theme in their blog about gender diversity: why women are underrepresented in IT. The cause of this seems to resonate with the lack of diversity in academia and the workplace. As a sizable event in technology, we found it in part our responsibility to encourage diversity at GDG DevFest Ukraine 2015."
   },
   {
-    "id": "what-to-do-in-lviv",
-    "title": "Top Things to Do in Lviv",
+    "id": "socios-estrategicos",
+    "title": "Estamos buscando Socios Estrategicos",
     "posted": "2015-10-21",
     "primaryColor": "#3F51B5",
     "secondaryColor": "#3F51B5",
     "image": "/images/posts/lviv.jpg",
-    "brief": "Ukrainian city of Lviv is no doubt one of the most charming and yet not well-known parts of Ukraine. It’s been recently gaining plenty of attention from the world, and was proudly featured on BBC and EuroNews."
+    "brief": "Este es un camino largo y necesitamos de empresas y grupos en quien apoyarnos es por eso que invitamos a los interesados de hacer parte del primer NG Conf Latam a ser nuestros socios estrategicos en esta gran aventura."
   },
   {
-    "id": "devfest-ua-summary",
-    "title": "GDG DevFest Ukraine 2015 - Summary",
-    "posted": "2015-10-24",
+    "id": "ngconf-latam-2016",
+    "title": "Anuncio del NG-Conf-Latam 2016",
+    "posted": "2016-06-15",
     "primaryColor": "#5a7785",
     "secondaryColor": "#455a64",
     "image": "/images/posts/summary.jpg",
-    "brief": "GDG DevFest Ukraine 2015 is now over. It was a great success. We are happy to share with you some facts, emotions and, of course, photos from the biggest Google Developers Conference in Ukraine!"
+    "brief": "Estamos orgullosos de anunciar nuestro primer gran evento de Angular que esta tomando lugar en Chile este mes de novimbre."
   }
 ]

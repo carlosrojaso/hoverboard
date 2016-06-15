@@ -3,13 +3,9 @@
 
 # TEAM
 
-Company:     GDG[x]
-Developer:   Oleh Zasadnyy, GDG Lviv
-Site:        https://github.com/gdg-x/hoverboard
-
 # THANKS
 
-Names:       Google, GitHub, Firebase
+Names:       GDG-X
 
 # SITE
 

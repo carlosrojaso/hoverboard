@@ -18,13 +18,13 @@ module.exports = {
     address: 'Av. San Martin | Vina del Mar',
     link: 'https://www.facebook.com/expopivdennij',
     pointer: {
-      latitude: 49.809841,
-      longitude: 23.972805,
+      latitude: -33.014048,
+      longitude: -71.554847,
       zoom: 15
     },
     mapCenter: {
-      latitude: 49.809841,
-      longitude: 23.982805
+      latitude: -33.014048,
+      longitude: -71.554847
     },
     images: ['/images/backgrounds/location_1.jpg', '/images/backgrounds/location_2.jpg', '/images/backgrounds/location_3.jpg']
   },
@@ -32,27 +32,18 @@ module.exports = {
   // Contacts
   social: {
     twitter: {
-      nickname: 'GDGLviv',
-      url: 'https://twitter.com/gdglviv'
-    },
-    gplus: {
-      nickname: '102444623953913144164',
-      url: 'https://plus.google.com/102444623953913144164'
+      nickname: 'NgconfLatam',
+      url: 'https://twitter.com/NgconfLatam'
     },
     facebook: {
-      nickname: 'GDGLviv',
-      url: 'https://www.facebook.com/GDGLviv'
-    },
-    // Linkedin company
-    linkedin: {
-      nickname: 'google-developers-group-lviv',
-      url: 'https://www.linkedin.com/company/google-developers-group-lviv'
+      nickname: 'NG-Conf Latam',
+      url: 'https://www.facebook.com/NG-Conf-Latam-490548607809092/'
     }
   },
-  hashtag: 'dfua',
-  email: 'devfest@gdg.com',
+  hashtag: 'NgconfLatam',
+  email: 'ng-conf-latam@carlosrojasblog.com',
   organizer: {
-    name: 'GDG Lviv',
-    blog: 'http://lviv.gdg.org.ua'
+    name: 'SponzorMe',
+    blog: 'http://www.sponzor.me'
   }
 };

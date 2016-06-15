@@ -14,7 +14,7 @@ module.exports = {
   }],
   callToAction: {
     text: 'NG-Conf Global 2016',
-    buttonText: 'See how it was',
+    buttonText: 'Mira como estuvos',
     video: {
       id: 't95z_HLMTmM',
       title: 'GDG DevFest Ukraine 2014 - Highlights'
@@ -32,19 +32,19 @@ module.exports = {
     title: 'Tiquetes',
     tickets: [{
       name: 'Estudiantes',
-      price: 105000,
-      currency: 'CLP',
+      price: 150,
+      currency: 'USD',
       info: '*Antes del 23 de Octubre o 100 Tiquetes vendidos.<br/>Requiere Carnet Estudiantil.'
     }, {
       name: 'Creyentes',
-      price: 250000,
-      currency: 'CLP',
+      price: 350,
+      currency: 'USD',
       info: '*Antes del 27 de Septiembre o 150 Tiquetes',
       soldOut: false
     }, {
       name: 'Regular',
-      price: 300000,
-      currency: 'CLP',
+      price: 400,
+      currency: 'USD',
       info: '*Despues del 27 de Septiembre'
     }],
     details: 'Tiquetes dan acceso a todas las conferencias, Coffee Breaks, Almuerzos y Fiesta Oficial. Hospedaje es no incluido en el precio del tiquete.'

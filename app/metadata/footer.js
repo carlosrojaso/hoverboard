@@ -10,18 +10,8 @@ module.exports = {
             newTab: true
           },
           {
-            text: 'GDG DevFest Ukraine 2013',
-            url: 'http://gdg-devfest-ua.appspot.com/',
-            newTab: true
-          },
-          {
-            text: 'GDG DevFest Ukraine 2014',
-            url: 'http://devfest.gdg.org.ua/2014/',
-            newTab: true
-          },
-          {
-            text: 'Code of Conduct',
-            url: '/code-of-conduct'
+            text: 'Codigo de Conducta',
+            url: 'http://es.confcodeofconduct.com/'
           }
         ]
       },
@@ -30,28 +20,28 @@ module.exports = {
         links: [
           {
             text: 'Partnership Proposition',
-            url: '/assets/GDG_DevFest_Ukraine_2015_Partnership_Proposition.pdf',
+            url: '/assets/Proposition.pdf',
             newTab: true
           },
           {
             text: 'Media Kit',
-            url: 'http://bit.ly/dfua-media',
+            url: '#',
             newTab: true
           },
           {
             text: 'Media Accreditation',
-            url: 'https://docs.google.com/forms/d/1sOjuv7rv77JXq2jPBdh3tg-O4CV8HpLTED5cjJBxnG8/viewform',
+            url: 'http://goo.gl/forms/MiuypFkvUaFLcwHL2',
             newTab: true
           }
         ]
       }
     ],
     contactBlock: {
-      title: 'Contact us',
+      title: 'Escribenós',
       links: [
         {
-          text: 'devfest@google.com',
-          url: 'mailto:devfest@google.com'
+          text: 'ng-conf-latam@carlosrojasblog.com',
+          url: 'mailto:ng-conf-latam@carlosrojasblog.com'
         }
       ]
     }

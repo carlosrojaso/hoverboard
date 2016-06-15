@@ -1,48 +1,20 @@
 [ {
     "title": "Patrocinadores",
     "logos": [{
-        "name": "Google",
-        "url": "https://www.google.com.ua/intl/en/about/",
-        "logoUrl": "../images/partners/google.svg"
+        "name": "Google Developers",
+        "url": "https://developers.google.com/",
+        "logoUrl": "../images/partners/google-developers.png"
     },{
-        "name": "GDG[x]",
-        "url": "https://github.com/gdg-x",
-        "logoUrl": "../images/partners/gdg-x.svg"
+        "name": "Corfo",
+        "url": "http://www.corfo.cl/",
+        "logoUrl": "../images/partners/logo-corfo.png"
     },{
-        "name": "Google",
-        "url": "https://www.google.com.ua/intl/en/about/",
-        "logoUrl": "../images/partners/google.svg"
+        "name": "Start-up Chile",
+        "url": "http://startupchile.org/",
+        "logoUrl": "../images/partners/logo-startupchile.png"
     },{
-        "name": "GDG[x]",
-        "url": "https://github.com/gdg-x",
-        "logoUrl": "../images/partners/gdg-x.svg"
-    },{
-        "name": "Google",
-        "url": "https://www.google.com.ua/intl/en/about/",
-        "logoUrl": "../images/partners/google.svg"
-    },{
-        "name": "GDG[x]",
-        "url": "https://github.com/gdg-x",
-        "logoUrl": "../images/partners/gdg-x.svg"
-    },{
-        "name": "Google",
-        "url": "https://www.google.com.ua/intl/en/about/",
-        "logoUrl": "../images/partners/google.svg"
-    },{
-        "name": "GDG[x]",
-        "url": "https://github.com/gdg-x",
-        "logoUrl": "../images/partners/gdg-x.svg"
-    },{
-        "name": "Google",
-        "url": "https://www.google.com.ua/intl/en/about/",
-        "logoUrl": "../images/partners/google.svg"
-    },{
-        "name": "GDG[x]",
-        "url": "https://github.com/gdg-x",
-        "logoUrl": "../images/partners/gdg-x.svg"
-    },{
-        "name": "Google",
-        "url": "https://www.google.com.ua/intl/en/about/",
-        "logoUrl": "../images/partners/google.svg"
+        "name": "Sponzorme",
+        "url": "https://www.sponzor.me",
+        "logoUrl": "../images/partners/logo-sponzorme.png"
     }]
 }]
