@@ -9,7 +9,12 @@
     "headers" : [ {
       "key" : "Cache-Control",
       "value" : "max-age=315360000"
-    } ]
+    } ,
+    {
+      "key" : "Access-Control-Allow-Origin",
+      "value" : "*"
+    }
+    ]
     }, {
     "source" : "**/*.@(gif|jpg|jpeg|png|svg|webp)",
     "headers" : [ {
